@@ -31071,5 +31071,12 @@
     "author": "Sebastien Delisle",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Filter and navigate files based on conditions you supply.",
     "repo": "lumargh/obsidian-file-filter"
+  }, 
+  {
+    "id": "checklist-sort",
+    "name": "Checklist Sort",
+    "author": "Adam Tweedie",
+    "description": "Sort your Todo (checklist) items by undone via custom keybind!",
+    "repo": "profesr-chaos/obsidian-checklist-sort"
   }
 ]
